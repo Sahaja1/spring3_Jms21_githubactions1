@@ -1,4 +1,4 @@
 @Library("jmsdevops@main") _
-pushDockerHub(
-ecrRepoName: 'spring3_Jms21_githubactions1'
+pushEcrRepo(
+ecrRepoName: 'spring3_jms21_githubactions1'
 )
